@@ -1,10 +1,12 @@
 <div align="center">
 
-# Rajat Behera
+# RAJAT BEHERA
 
-### Computer Science & Engineering · Software · IoT · AI/ML
+### Computer Science & Engineering
 
-**Building software, connected systems, and exploring intelligent applications.**
+**Software · IoT · Embedded Systems · AI/ML**
+
+Building software and connected systems that solve real-world problems.
 
 [LinkedIn](https://www.linkedin.com/in/rajat-behera-5a02b7328/) ·
 [GitHub](https://github.com/rajatbehera05)
@@ -15,76 +17,60 @@
 
 ## About
 
-I'm a Computer Science & Engineering student interested in building
-end-to-end systems across software, IoT, embedded systems, and AI/ML.
+I'm a Computer Science & Engineering student focused on building
+practical systems across **software, IoT, embedded systems, and AI/ML**.
 
-I enjoy taking an idea from a concept to a working system — designing the
-architecture, building the software, connecting hardware, testing the
-integration, and improving it along the way.
+I enjoy working across the complete system — from designing applications
+and backend services to connecting hardware, handling real-time data,
+and exploring intelligent solutions.
 
-My current focus is growing from software development into **intelligent
-connected systems**, combining applications, data, hardware, and machine
-learning.
-
----
-
-## What I Build
-
-**Software & Web**
-
-Full-stack applications, backend services, REST APIs, database-driven
-systems, and web platforms.
-
-**IoT & Embedded**
-
-ESP32-based systems, sensors, actuators, hardware-to-software communication,
-and real-time device integration.
-
-**AI / ML**
-
-Currently developing my foundations in machine learning and exploring how
-models can become part of practical applications.
+Currently, I'm expanding my knowledge in **Machine Learning, AI,
+Cloud Computing, and System Design**.
 
 ---
 
 ## Selected Work
 
 ### Smart Parking System
-An IoT parking management system connecting **ESP32 sensors, a Node.js
-backend, and a real-time React dashboard**.
 
-`ESP32` `React` `Node.js` `Express` `REST API`
+An IoT-based parking management system connecting physical sensors
+with a web application for real-time parking monitoring and control.
+
+**ESP32 · IR Sensors · React · Node.js · Express · REST API**
 
 ### DealOrbit
-A sales operations platform developed during a **24-hour hackathon**, focused
-on exploring deal scenarios before customer interaction.
 
-`TypeScript` `Web` `Backend`
+A sales operations platform developed during a **24-hour hackathon**,
+designed to help teams explore and evaluate deal scenarios.
+
+**TypeScript · Web Development · Backend Systems**
 
 ### Library Management System
-A Java web application built around database management and application
-workflows.
 
-`Java` `JSP` `MySQL`
+A Java-based web application for managing library operations,
+users, books, and database workflows.
+
+**Java · JSP · MySQL · Apache Tomcat**
 
 ---
 
 ## Technology
 
-**Languages**  
-`Java` · `JavaScript` · `Python` · `C/C++`
+**Languages**
 
-**Development**  
-`React` · `Node.js` · `Express.js` · `JSP` · `REST APIs`
+`Java` `JavaScript` `Python` `C/C++` `SQL`
 
-**Data**  
-`MySQL` · `SQL`
+**Development**
 
-**IoT / Embedded**  
-`ESP32` · `Arduino` · `Sensors` · `Actuators`
+`React` `Node.js` `Express.js` `JSP` `REST APIs`
 
-**Tools**  
-`Git` · `GitHub` · `Docker` · `VS Code`
+**IoT & Embedded**
+
+`ESP32` `Arduino` `Sensors` `Actuators`
+
+**Tools**
+
+`Git` `GitHub` `Docker` `VS Code` `Arduino IDE`
 
 ---
 
@@ -93,13 +79,15 @@ workflows.
 `Machine Learning` · `Artificial Intelligence` · `Cloud Computing`
 · `System Design`
 
-I'm particularly interested in the intersection of **software + hardware +
-data + AI** and the engineering challenges that appear when these systems
-have to work together.
+Interested in the intersection of **software + hardware + data + AI**.
 
 ---
 
-## Engineering Mindset
+<div align="center">
 
-```text
-Understand → Design → Build → Test → Integrate → Improve
+### BUILD · LEARN · ITERATE
+
+[LinkedIn](https://www.linkedin.com/in/rajat-behera-5a02b7328/) ·
+[GitHub](https://github.com/rajatbehera05)
+
+</div>
