@@ -24,6 +24,10 @@ I enjoy working across the complete system — from designing applications
 and backend services to connecting hardware, handling real-time data,
 and exploring intelligent solutions.
 
+• **Software** — Full-stack applications, backend services, REST APIs  
+• **IoT & Embedded** — ESP32, sensors, actuators, and hardware integration  
+• **AI / ML** — Exploring machine learning and intelligent applications  
+
 Currently, I'm expanding my knowledge in **Machine Learning, AI,
 Cloud Computing, and System Design**.
 
@@ -31,21 +35,21 @@ Cloud Computing, and System Design**.
 
 ## ⟡ Selected Work
 
-### Smart Parking System
+### • Smart Parking System
 
 An IoT-based parking management system connecting physical sensors
 with a web application for real-time parking monitoring and control.
 
 **ESP32 · IR Sensors · React · Node.js · Express · REST API**
 
-### DealOrbit
+### • DealOrbit
 
 A sales operations platform developed during a **24-hour hackathon**,
 designed to help teams explore and evaluate deal scenarios.
 
 **TypeScript · Web Development · Backend Systems**
 
-### Library Management System
+### • Library Management System
 
 A Java-based web application for managing library operations,
 users, books, and database workflows.
@@ -56,19 +60,19 @@ users, books, and database workflows.
 
 ## ⟡ Technology
 
-**Languages**
+### • Languages
 
 `Java` `JavaScript` `Python` `C/C++` `SQL`
 
-**Development**
+### • Development
 
 `React` `Node.js` `Express.js` `JSP` `REST APIs`
 
-**IoT & Embedded**
+### • IoT & Embedded
 
 `ESP32` `Arduino` `Sensors` `Actuators`
 
-**Tools**
+### • Tools
 
 `Git` `GitHub` `Docker` `VS Code` `Arduino IDE`
 
@@ -76,8 +80,10 @@ users, books, and database workflows.
 
 ## ⟡ Currently Exploring
 
-`Machine Learning` · `Artificial Intelligence` · `Cloud Computing`
-· `System Design`
+• **Machine Learning**  
+• **Artificial Intelligence**  
+• **Cloud Computing**  
+• **System Design**
 
 Interested in the intersection of **software + hardware + data + AI**.
 
