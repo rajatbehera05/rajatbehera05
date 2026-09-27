@@ -15,7 +15,7 @@ Building software and connected systems that solve real-world problems.
 
 ---
 
-## About
+## ⟡ About
 
 I'm a Computer Science & Engineering student focused on building
 practical systems across **software, IoT, embedded systems, and AI/ML**.
@@ -29,7 +29,7 @@ Cloud Computing, and System Design**.
 
 ---
 
-## Selected Work
+## ⟡ Selected Work
 
 ### Smart Parking System
 
@@ -54,7 +54,7 @@ users, books, and database workflows.
 
 ---
 
-## Technology
+## ⟡ Technology
 
 **Languages**
 
@@ -74,7 +74,7 @@ users, books, and database workflows.
 
 ---
 
-## Currently Exploring
+## ⟡ Currently Exploring
 
 `Machine Learning` · `Artificial Intelligence` · `Cloud Computing`
 · `System Design`
