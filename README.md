@@ -1,145 +1,119 @@
-# Hey, I'm Rajat Behera 👋
+# Rajat Behera
 
-### CSE Engineer | Software Development | IoT & Embedded Systems | AI/ML
+### Computer Science & Engineering · Software · IoT · AI/ML
 
-I'm a Computer Science & Engineering student interested in building practical
-software, connected systems, and intelligent applications.
+I build software and connected systems, with a growing focus on intelligent
+applications.
 
-My interests sit at the intersection of:
+My work spans frontend and backend development, IoT and embedded systems,
+APIs, databases, and machine learning. I enjoy taking an idea from a rough
+concept to something that can actually be built, tested, and used.
 
-- 💻 Software & Full-Stack Development
-- 🌐 IoT & Embedded Systems
-- 🤖 Artificial Intelligence & Machine Learning
-- ☁️ Backend & Cloud Technologies
-
-I enjoy turning ideas into working systems — from building web applications
-and backend APIs to connecting hardware and working with real-world sensor data.
+[LinkedIn](https://www.linkedin.com/in/rajat-behera-5a02b7328/) ·
+[GitHub](https://github.com/rajatbehera05)
 
 ---
 
-## 🚀 What I Work With
+## What I'm building
 
-### 💻 Programming Languages
+**Smart Parking System**
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+An IoT-based parking system connecting ESP32 hardware, physical sensors,
+a backend API, and a real-time web dashboard.
 
-### 🌐 Web Development
+`ESP32` · `React` · `Node.js` · `Express` · `REST API`
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JSP-6DB33F?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+**DealOrbit**
 
-### 🌐 IoT & Embedded Systems
+A sales operations platform developed during a 24-hour hackathon, designed
+around exploring deal scenarios before customer interaction.
 
-<p>
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Embedded%20Systems-333333?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/IoT-0A0A0A?style=for-the-badge"/>
-</p>
-
-### 🗄️ Databases & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-</p>
+`TypeScript` · `Web Development` · `Backend`
 
 ---
 
-## 🚀 Featured Projects
+## Areas I work in
 
-### 🚗 Smart Parking System
+**Software**
+  
+Full-stack applications · Backend systems · REST APIs · Database-driven
+applications
 
-An IoT-based smart parking system that connects physical sensors with a
-web-based parking management dashboard.
+**IoT / Embedded**
 
-**Highlights:**
+ESP32 · Arduino · Sensors · Actuators · Hardware/software integration
 
-- Real-time parking occupancy
-- ESP32-based sensor integration
-- Automatic slot assignment
-- Parking reservation
-- Gate control using a servo motor
-- REST API communication
-- Live parking dashboard
+**AI / ML**
 
-**Tech:** `ESP32` `React` `Node.js` `Express` `REST API` `IoT`
+Currently developing my foundation in machine learning and exploring ways
+to integrate intelligent models into practical applications.
 
 ---
 
-### 💼 DealOrbit
+## Technology
 
-A sales operations platform developed during a hackathon to help teams explore
-deal scenarios and make informed decisions throughout the quotation-to-cash
-process.
+**Languages**
 
-**Tech:** `TypeScript` `Web Development` `Backend Systems`
+Java · JavaScript · Python · C/C++
 
----
+**Frontend**
 
-### 📚 Library Management System
+React · HTML · CSS
 
-A Java-based library management application with database integration and
-web technologies.
+**Backend**
 
-**Tech:** `Java` `JSP` `MySQL` `Apache Tomcat`
+Node.js · Express.js · JSP
 
----
+**Data**
 
-### 🔐 Authentication Project
+MySQL · SQL
 
-A web-based authentication project focused on implementing user
-authentication and application access flows.
+**IoT & Embedded**
 
-**Tech:** `JavaScript` `EJS` `Web Development`
+ESP32 · Arduino · Embedded Systems
 
----
+**Tools**
 
-## 🌱 Currently Learning
-
-I'm currently expanding my skills in:
-
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- ☁️ Cloud Computing
-- ⚙️ Advanced Backend Development
-- 🔌 Embedded & IoT Systems
-- 🏗️ System Design
-
-My current goal is to understand how software, hardware, data, and AI can
-work together to create useful real-world systems.
+Git · GitHub · Docker · VS Code · Arduino IDE
 
 ---
 
-## 🧠 Areas of Interest
+## Selected work
+
+| Project | Description | Technologies |
+| --- | --- | --- |
+| **Smart Parking** | Connected parking management system with live hardware data | ESP32 · React · Node.js |
+| **DealOrbit** | Sales operations and deal scenario platform | TypeScript · Web |
+| **Library Management** | Database-driven library management application | Java · JSP · MySQL |
+| **Authentication Project** | Web authentication and access management | JavaScript · EJS |
+
+---
+
+## Currently learning
+
+Machine Learning  
+Artificial Intelligence  
+Cloud Computing  
+Backend Development  
+System Design
+
+I'm particularly interested in understanding how software, connected
+devices, and intelligent systems can work together rather than treating
+them as separate technologies.
+
+---
+
+## How I like to build
 
 ```text
-Software Engineering
-│
-├── Full-Stack Development
-├── Backend Systems
-├── APIs & Databases
-│
-├── IoT
-│   ├── ESP32
-│   ├── Sensors
-│   └── Embedded Systems
-│
-└── AI / ML
-    ├── Machine Learning
-    ├── Data
-    └── Intelligent Applications
+idea
+  ↓
+design
+  ↓
+build
+  ↓
+test
+  ↓
+connect
+  ↓
+improve
