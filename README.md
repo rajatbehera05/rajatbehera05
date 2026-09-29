@@ -13,6 +13,12 @@ Building software and connected systems that solve real-world problems.
 
 </div>
 
+<div align="center">
+
+<img src="./assets/rajat-engineering-banner.gif" width="100%" alt="Rajat Behera - Engineering Systems">
+
+</div>
+
 ---
 
 ## ⟡ About
@@ -24,11 +30,11 @@ I enjoy working across the complete system — from designing applications
 and backend services to connecting hardware, handling real-time data,
 and exploring intelligent solutions.
 
-• **Software** — Full-stack applications, backend services, REST APIs  
+• **Software** — Full-stack applications, backend services, and REST APIs  
 • **IoT & Embedded** — ESP32, sensors, actuators, and hardware integration  
-• **AI / ML** — Exploring machine learning and intelligent applications  
+• **AI / ML** — Building foundations in machine learning and exploring intelligent applications  
 
-Currently, I'm expanding my knowledge in **Machine Learning, AI,
+Currently, I'm expanding my knowledge across **Machine Learning, AI,
 Cloud Computing, and System Design**.
 
 ---
@@ -62,19 +68,23 @@ users, books, and database workflows.
 
 ### • Languages
 
-`Java` `JavaScript` `Python` `C/C++` `SQL`
+`Java` · `JavaScript` · `Python` · `SQL`
 
 ### • Development
 
-`React` `Node.js` `Express.js` `JSP` `REST APIs`
+`React` · `Node.js` · `Express.js` · `JSP` · `REST APIs`
 
 ### • IoT & Embedded
 
-`ESP32` `Arduino` `Sensors` `Actuators`
+`ESP32` · `Arduino` · `Sensors` · `Actuators`
+
+### • Databases
+
+`MySQL` · `SQL`
 
 ### • Tools
 
-`Git` `GitHub` `Docker` `VS Code` `Arduino IDE`
+`Git` · `GitHub` · `Docker` · `VS Code` · `Arduino IDE`
 
 ---
 
@@ -86,6 +96,15 @@ users, books, and database workflows.
 • **System Design**
 
 Interested in the intersection of **software + hardware + data + AI**.
+
+---
+
+## ⟡ Engineering Approach
+
+**Understand → Build → Test → Integrate → Improve**
+
+I learn by building practical systems, connecting different technologies,
+and improving them through experimentation and iteration.
 
 ---
 
