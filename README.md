@@ -2,11 +2,11 @@
 
 # RAJAT BEHERA
 
-### Computer Science & Engineering
+### Computer Science & Engineering (IoT)
 
-**Software · IoT · Embedded Systems · AI/ML**
+**Software · IoT · Embedded Systems**
 
-Building software and connected systems that solve real-world problems.
+Building practical software and connected systems for real-world problems.
 
 [LinkedIn](https://www.linkedin.com/in/rajat-behera-5a02b7328/) ·
 [GitHub](https://github.com/rajatbehera05)
@@ -15,7 +15,7 @@ Building software and connected systems that solve real-world problems.
 
 <div align="center">
 
-<img src="./assets/rajat-engineering-banner.gif" width="100%" alt="Rajat Behera - Engineering Systems">
+<img src="./assets/rajat-engineering-banner.gif" width="100%" alt="Rajat Behera - Computer Science & Engineering (IoT)">
 
 </div>
 
