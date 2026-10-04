@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="./assets/rajat-engineering-banner.gif"
-     width="100%"
-     alt="Rajat Behera - Computer Science & Engineering (IoT)">
+# RAJAT BEHERA
 
-<br>
+### Computer Science & Engineering (IoT)
+
+<img src="./assets/rajat-engineering-banner.gif" width="520" alt="Animated engineering systems">
+
+**Software · IoT · Embedded Systems**
+
+Building practical software and connected systems for real-world problems.
 
 [LinkedIn](https://www.linkedin.com/in/rajat-behera-5a02b7328/) ·
 [GitHub](https://github.com/rajatbehera05)
