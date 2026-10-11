@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="./assets/rajat-engineering-banner.gif" width="700" alt="Engineering Systems">
+<img src="./engineering-background-loop.gif" alt="Animated technology background" width="100%">
 
 # RAJAT BEHERA
 
