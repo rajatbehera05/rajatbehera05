@@ -1,5 +1,4 @@
-
-<div align="center">
+ <div align="center">
 
 <img src="./engineering-background-loop.gif" alt="Animated technology background" width="100%">
 
@@ -169,16 +168,25 @@ evaluate deal scenarios before making business decisions.
 
 ---
 
-### 📚 Library Management System
+### 🆘 ReQNet — Rescue Communication Network
 
-> **Java Web Application**
+> **Disaster Response · Offline Emergency Communication**
 
-A database-driven web application for managing books, users,
-transactions and library operations.
+An emergency communication system designed to help people send SOS
+messages and enable rescue teams to receive them when conventional
+cellular networks become unavailable during disasters.
+
+**Key Features**
+
+- 📡 ESP32-powered local Wi-Fi communication
+- 🆘 Emergency SOS message submission
+- 🖥️ Rescue-team dashboard for viewing distress messages
+- 🌐 Offline communication without internet access
+- 🔌 Designed for low-power emergency deployment
 
 **Tech**
 
-`Java` `JSP` `MySQL` `Apache Tomcat`
+`ESP32` `React` `TypeScript` `Node.js` `Express.js` `REST API` `Local Wi-Fi`
 
 ---
 
